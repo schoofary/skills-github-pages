@@ -1,5 +1,4 @@
 ---
-title: Welcome to my blog
-body :i am a cybersecurity student in ngee ann poly
+title: Welcome to my blog, im a student in ngee ann poly
 ---
 
